@@ -5,3 +5,7 @@ Beginning the journey of solving DSA problems by understanding the basics and fu
 For the installation guide : https://youtu.be/y-oLhL3qQGQ?si=2lTwswzdQv2WVCkZ
 
 Vs code setup for Cpp : https://youtu.be/h3uDCJ5mvgw?si=PgATPhcGE2dAlkf6
+
+### Data types with their storage capacity : 
+
+<img src="./assets/Pic-1.png" />
