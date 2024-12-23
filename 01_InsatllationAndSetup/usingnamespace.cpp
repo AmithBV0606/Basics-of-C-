@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// In order to receive input or get output "iostream" library is used.
 
 int main() {
     cout << "Hello World!!" << endl;

@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 
+// Character can store anything
 int main() {
     char ch;
     cin >> ch;

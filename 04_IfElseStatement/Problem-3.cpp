@@ -36,6 +36,32 @@ int main()
         {
             cout << "Retirement time!!";
         }
-        return 0;
     }
+    return 0;
 }
+
+// Another approach
+/*
+int main() {
+    int age;
+    cin >> age;
+
+    if (age < 18)
+    {
+        cout << "You are not eligible for JOB!";
+    }
+    else if (age <= 57){
+        cout << "You are eligible for JOB!"
+        if(age >= 55){
+            cout << ", but retirement time"
+        }
+    }
+    else {
+        cout << "retirement time";
+    }
+    return 0;
+}
+
+
+
+*/ 
