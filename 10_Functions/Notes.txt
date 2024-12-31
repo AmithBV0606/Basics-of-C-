@@ -1,0 +1,11 @@
+// Functions are set of code which performs something for you.
+// Functions are used to modularise the code.
+// Functions are used to increase the readability of the code.
+// Function can be called multiple times.
+
+// Types of functions : 
+
+// 1. Void -> Which doesn't return anything
+// 2. return
+// 3. Parameterised
+// 4. Non-Parameterised
