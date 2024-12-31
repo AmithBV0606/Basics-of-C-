@@ -6,6 +6,7 @@ int main() {
     // Strings
     string s1;
     string s2;
+    //  or string s1, s2;
     cin >> s1 >> s2;
     cout << s1 << " " << s2;
 

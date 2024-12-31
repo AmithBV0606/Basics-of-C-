@@ -8,6 +8,6 @@ int main() {
     cin >> ch;
     cout << "Entered character is " << ch;
 
-    char ch2 = 'g';
+    char ch2 = 'g'; // Single quotes is used while declaring character and double quotes while declaring the string 
     return 0;
 }
